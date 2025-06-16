@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a young tinkerer, constantly learning new things about programming, scripting, hacking and more</h3>
+<h3 align="center">I'm a young tinkerer, constantly learning new things about programming, scripting, networking, hacking and more</h3>
 
 ###
 
