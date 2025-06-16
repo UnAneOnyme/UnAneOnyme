@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.redd.it/ad4hl8pvboue1.gif"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/141448577?v=4"  />
 </div>
 
 ###
