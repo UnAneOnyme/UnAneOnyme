@@ -35,12 +35,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UnAneOnyme.UnAneOnyme&"  />
-</div>
-
-###
-
 <h4 align="left">My Current Knowledge (16/06/2025) :</h4>
 
 ###
@@ -145,6 +139,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=UnAneOnyme.UnAneOnyme&"  />
 </div>
 
 ###
