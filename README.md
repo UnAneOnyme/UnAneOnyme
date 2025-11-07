@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media1.tenor.com/m/_42LIYPv0EIAAAAC/arthur-morgan-rdr2.gif"  />
+  <img height="250" src="https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o34o4o4k3342a8/2dee9e88ff3440a3d651588a459323e40e7e7dba.jpg"  />
 </div>
 
 ###
