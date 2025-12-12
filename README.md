@@ -114,6 +114,10 @@
 
 ###
 
+<p align="left">Other graphs were broken so only pac-man :(.</p>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnAneOnyme/UnAneOnyme/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnAneOnyme/UnAneOnyme/output/pacman-contribution-graph.svg">
