@@ -114,7 +114,7 @@
 
 ###
 
-<p align="left">Other graphs were broken so only pac-man :(.</p>
+<p align="left">Other graphs were broken so only pac-man :(</p>
 
 ###
 
