@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a young tinkerer, constantly learning new things about programming, scripting, networking, hacking and more.<br><br>You can find all my links at https://resite.link/unaneonyme<br><br>Most of my repos are set to private.</p>
+<p align="left">I'm a young tinkerer, constantly learning new things about programming, scripting, networking, hacking and more.<br><br>Most of my repos are set to private.</p>
 
 ###
 
